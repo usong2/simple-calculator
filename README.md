@@ -1,5 +1,4 @@
 <h1>Simple Calculator</h1>
-
 간단하지만 사용자의 입력과 연산(처리) 그리고 출력을 수행하는 JavaScript 계산기입니다.
 
 <br />
@@ -16,5 +15,5 @@
 
 ## Screenshot
 
-![simple-calculator](https://github.com/usong2/simple-calculator/img/calculator.jpg)
+![simple-calculator](https://github.com/usong2/simple-calculator/blob/master/img/calculator.jpg?raw=true)
 
