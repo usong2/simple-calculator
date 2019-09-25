@@ -1,7 +1,6 @@
 <h1>Simple Calculator</h1>
 간단하지만 사용자의 입력과 연산(처리) 그리고 출력을 수행하는 JavaScript 계산기입니다.
-
-<br />
+<br /><br />
 
 ## 주요 구성 및 기능
 
@@ -10,10 +9,6 @@
 + 초기화(clear) 버튼 : 현재 입력된 내용을 초기화
 + 결과(=) 버튼 : 계산 결과를 표시
 + 결과 창 : 버튼에서 입력한 내용을 표시하거나 계산 결과를 표시 
-
-<br />
-
 ## Screenshot
-
 ![simple-calculator](https://github.com/usong2/simple-calculator/blob/master/img/calculator.jpg?raw=true)
 
